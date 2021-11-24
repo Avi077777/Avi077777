@@ -1,0 +1,14 @@
+package basics;
+
+public class HeyJava {
+public static void main(String[] args) {
+System.out.println("hey java "
+		+ "how are you "
+		+ "what are you doing"
+		+ "");
+}
+}
+int i=5 
+int y=4
+
+("sum of int =")
